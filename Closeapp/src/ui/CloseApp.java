@@ -202,8 +202,8 @@ public class CloseApp {
 		// TOTAL
 		total = (totalTicketsPaid+totalOutlay+totalReceipts+totalTickets+totalNequi);
 		System.out.println("");
-		System.out.println("EFECTIVO: "+cuadre);
 		System.out.println("SUBTOTAL: "+total);
+		System.out.println("EFECTIVO: "+cuadre);
 		System.out.println("TOTAL: "+(total+cuadre));
 		System.out.println("");
 		System.out.println("--------------------------");
